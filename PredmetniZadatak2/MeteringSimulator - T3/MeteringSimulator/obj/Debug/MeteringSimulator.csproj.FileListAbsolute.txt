@@ -1,0 +1,45 @@
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Nevena\OneDrive\Radna površina\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PSI IUIS - PZ2 - Network Service\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Nevena\OneDrive\Radna površina\HCI\PredmetniZadatak2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
