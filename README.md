@@ -1,1 +1,1 @@
-# HCI-Projekat
+# HCI-Predmetni zadatak 2
